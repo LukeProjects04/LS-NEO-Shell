@@ -1,0 +1,68 @@
+NEO-shell Proprietary License
+
+Copyright (c) 2024–2025
+Fogli Luca
+All rights reserved.
+
+------------------------------------------------------------
+GRANT OF PERMISSION
+------------------------------------------------------------
+
+Permission is hereby granted to any person obtaining a copy of this software
+to use, copy, and redistribute it in its original, unmodified binary form,
+free of charge, exclusively for personal and educational purposes.
+
+Redistribution is allowed provided that:
+- this license is included in full,
+- the software remains unmodified,
+- all copyright notices are preserved.
+
+------------------------------------------------------------
+RESTRICTIONS
+------------------------------------------------------------
+
+The following actions are strictly prohibited:
+
+- Modification of the software, in whole or in part
+- Creation of derivative works
+- Reverse engineering, decompilation, or disassembly
+- Extraction of firmware, interpreter, or internal components
+- Circumventing technical protection mechanisms
+- Creation of forks or alternative versions
+- Distribution of modified versions in any form
+
+The source code of the NEO-shell interpreter is not provided and is not part
+of this license.
+
+------------------------------------------------------------
+COMMERCIAL USE
+------------------------------------------------------------
+
+Commercial use, sale, sublicensing, or inclusion of this software in
+commercial products or services is not permitted without explicit
+prior written permission from the author.
+
+------------------------------------------------------------
+THIRD-PARTY SOFTWARE
+------------------------------------------------------------
+
+This project may include third-party software components.
+Such components are distributed under their respective licenses
+and are not covered by this license.
+
+------------------------------------------------------------
+DISCLAIMER OF WARRANTY
+------------------------------------------------------------
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+------------------------------------------------------------
+LIMITATION OF LIABILITY
+------------------------------------------------------------
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
