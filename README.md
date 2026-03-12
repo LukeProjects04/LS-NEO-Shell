@@ -1,77 +1,75 @@
-#introduzione Interprete LS-NS# 
 ![NEO-Shell Poster](IMAGES/NEO_POSTER.png)
 
-brevi parole sul linguaggio:
+short words about language:
 
-cos'è?
+what is it?
 
-Il LS-Neo Shell è un linguaggio di programmazione interpretato minimale progettato
-con lo scopo per eseguire direttamente su un microcontrollore piccoli pezzi di codice in 
-linguaggio NEO-Shell, così togliendo il processo di compilazione
-del codice direttamente nella memoria del microcontrollore interessato tra cui 
-il fattore tempo della compilazione. 
+The LS-Neo Shell is a minimal interpreted programming language designed
+with the purpose of running small pieces of code directly on a microcontroller in 
+NEO-Shell language, thus removing the compilation process
+of the code directly in the memory of the microcontroller concerned including 
+the compilation time factor. 
 
-dove può essere applicato?
-tale linguaggio e stato pensato principalmente per essere usufruito in ambienti
-di ricerca , laboratorio e sviluppo per la sua estensione nel controllo delle porte 
-I/O del microcontrollore e alcuni comandi pensati per il controllo di segnali PWM.
+where can it be applied?
+such language and was primarily intended to be used in environments
+of research, laboratory and development for its extension in door control 
+I/O of the microcontroller and some commands designed to control PWM signals.
 
-data la sua semplicità e vicinanza ad un ambiente pseudo Basic con derivanti dal C.
+given its simplicity and proximity to a pseudo Basic environment with C-derived.
 
-il NEO-Shell può essere anche applicato in contesto didattico come strumento 
-di studio e apprendimento.
+the NEO-Shell can also be applied in an educational context as a tool 
+of study and learning.
 
-pro & contro
+pro & con
 
--+- punti a favore -+-
+-+- points in favor -+-
 
-il pro del linguaggio NEO-Shell sta nel rendere la sua programmazione veloce e semplice
-abolendo il tempo utilizzato nel compilare il codice da PC a computer, essendo che l'interprete
-è installato in memoria.
+the pro of the NEO-Shell language is to make its programming fast and simple
+abolishing the time used in compiling the code from PC to computer, since the interpreter
+is installed in memory.
 
-un altro punto a suo favore e che rispetto a molti linguaggi o interpreti, che in caso sia
-presente un comando scritto in modo errato o errore di altro origine , il codice non viene fermato
-o bloccato , segnalerà solo il comando che lui non riesce ad interpretare o in casi generici lo
-ignorerà proseguendo con l'eseguzione del codice.  
+another point in its favor and that with respect to many languages or interpreters, that in case it is
+there is a command written incorrectly or error of another origin, the code is not stopped
+or blocked , will only report the command that he cannot interpret or in general cases it
+will ignore by continuing to run the code.  
 
--+- punti a sfavore -+-
+-+- points against -+-
 
-essendo un linguaggio INTERPRETATO, la sua velocità nel processo di calcolo e di risposta 
-di ogni singolo comando che viene inviato può risultare molto lento , causando sfavori in campi 
-dove la velocità e necessaria.
+being an INTERPRETED language, its speed in the calculation and response process 
+of each single command that is sent can be very slow, causing disfavors in fields 
+where the speed and necessary.
 
-i comandi presenti nel linguaggio sono troppo limitati e poco espansivi per essere utilizzati in ambiti
-dove è richiesto l'uso di un linguaggio di programmazione professionale 
+The commands in the language are too limited and not very expansive to be used in scope
+where the use of a professional programming language is required 
 
 
--+- aggiornamenti e prossimi passi -+-
+-+- updates and next steps -+-
 
 NEO-SHELL SIMULATOR DEMO1
 
-in data 13/03/2026 esce la versione di demo del neo-shell , si compone di un terminale eseguibile
-sotto Windows per versioni a 64Bit ( no 32bit ) per permettere di dare una prima occhiata a cosa
-sarà , insieme al programma simulatore demo, è assortito i documenti dove vengono introdotti i comandi
-del neo-shell in versione inglese , giapponese ed italiana, ed una piccola demo che si avvierà all'avvio 
-del simulatore.
+The demo version of the neo-shell will be released on 03/13/2026, it consists of an executable terminal
+under Windows for 64Bit versions (no 32bit) to allow you to take a first look at what
+will be , together with the demo simulator program, the documents where the commands are introduced are assorted
+of the neo-shell in English, Japanese and Italian versions, and a small demo that will start at startup 
+of the simulator.
 
-prossiamente verrà rilasciato il programma per compilare il NEO-shell su microcontrollori Atmega 1284P!
+The program to compile the NEO-shell on Atmega 1284P microcontrollers will soon be released!
 
 -+- work in progress -+-
 
-dalla data 13/04/2026 al 13/05/2026 verranno rilasciati i seguenti programmi:
+From April 13, 2026 to May 13, 2026, the following programs will be released:
 
-	NEO-SHELL installer Ver Atmega 1284P
+NEO-SHELL installer Ver Atmega 1284P
 
-	NEO-SIM simulatore con interfaccia grafica con workbench a linguaggio a blocchi 
+NEO-SIM simulator with graphical interface with block language workbench 
 
-	NEO-IDE set di interfaccia terminale tra PC e MCU con un editor incorporato per scrivere il codice da eseguire
+NEO-IDE terminal interface set between PC and MCU with a built-in editor to write the code to run
 
--+- pagine web e contatti -+-
+-+- web pages and contacts -+-
 
-puoi vedere la pagina internet dove è possibile provare un piccolo simulatore online , ed seguirmi 
-sul canale Instagram di lukeProject04.
+you can see the internet page where you can try a small online simulator , and follow me 
+on lukeProject04's Instagram channel.
 
 https://sites.google.com/view/lukeprojects04/home-page
 
-in caso puoi scrivermi tramite Email a: lukeprojects04@gmail.com 
-
+if so you can write to me via Email to: lukeprojects04@gmail.com 
