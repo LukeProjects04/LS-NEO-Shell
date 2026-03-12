@@ -1,6 +1,6 @@
 NEO-Shell — LS-NS Interpreter
 > **Logic Components Corp** · *Interpreted scripting firmware for microcontrollers*
-![NEO-Shell Poster](main/IMAGES/NEO_POSTER.png)
+![NEO-Shell Poster](IMAGES/NEO_POSTER.png)
 ---
 What is it?
 LS-Neo Shell is a minimal interpreted programming language designed to run small pieces of NEO-Shell code directly on a microcontroller, eliminating the need for a full compilation cycle. There is no compile step — the interpreter lives in the microcontroller's memory and executes commands immediately, saving both development time and the overhead of flashing new firmware for every change.
