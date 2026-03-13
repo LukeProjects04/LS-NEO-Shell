@@ -3,3 +3,4 @@ boot
 $name = eepset 2 
 blk NEW = [ print "Welcome to LS-NEO Shell , thank so much for your choiche (^U^)\nplease, can you write your name?" ; $name = in T ; eepset 2 $name ; print "\nNice to meet you $name!\nNow i save your name/nickname in my memory!\nif you want to see my code, write eeplist commnad on terminal!\n" ]
 if ( $name == 0 ) { NEW }; else { print "goodmorning $name!\nwhat do you want to do today? :-)\n"}
+
