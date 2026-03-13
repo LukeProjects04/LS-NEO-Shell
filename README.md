@@ -25,7 +25,7 @@ pro & con
 -+- points in favor -+-
 
 the pro of the NEO-Shell language is to make its programming fast and simple
-abolishing the time used in compiling the code from PC to computer, since the interpreter
+abolishing the time used in compiling the code from PC to MCU, since the interpreter
 is installed in memory.
 
 another point in its favor and that with respect to many languages or interpreters, that in case it is
