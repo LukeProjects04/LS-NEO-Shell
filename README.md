@@ -1,5 +1,10 @@
 ![NEO-Shell Poster](IMAGES/NEO_POSTER.png)
 
+little introduction:
+
+I would like to clarify that the LS-NEO Shell project was not conceived and developed by a team of experts or a company specializing in IT and programming, but rather from the dream and passion of a guy who, driven by determination, set out to create this language for recreational purposes, with the aim of making it available to everyone.
+
+
 short words about language:
 
 what is it?
