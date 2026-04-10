@@ -1,29 +1,27 @@
 ![NEO-Shell Poster](IMAGES/NEO_POSTER.png)
 
-little introduction:
+A brief introduction:
 
-I would like to clarify that the LS-NEO Shell project was not conceived and developed by a team of experts or a company specializing in IT and programming, but rather from the dream and passion of a guy who, driven by determination, set out to create this language for recreational purposes, with the aim of making it available to everyone.
+I would like to clarify that the LS-NEO Shell project was not conceived and developed by a team of experts or a company specializing in computer science and programming, but rather from the dream and passion of a young man who, driven by determination, decided to create this language for recreational purposes, with the goal of making it accessible to everyone.
 
 
-short words about language:
+A few words about the language:
 
-what is it?
+What is it?
 
-The LS-Neo Shell is a minimal interpreted programming language designed
-with the purpose of running small pieces of code directly on a microcontroller in 
-NEO-Shell language, thus removing the compilation process
-of the code directly in the memory of the microcontroller concerned including 
-the compilation time factor. 
+LS-Neo Shell is a minimal interpreted programming language designed
+to execute small code snippets directly on a microcontroller in
+the NEO-Shell language, thereby eliminating the code compilation process
+directly in the microcontroller’s memory, including
+the compilation time factor.
 
-where can it be applied?
-such language and was primarily intended to be used in environments
-of research, laboratory and development for its extension in door control 
-I/O of the microcontroller and some commands designed to control PWM signals.
+Where can it be applied?
+This language is intended for public use, designed to be utilized in educational settings and for civilian purposes, so anyone can use it!
 
-given its simplicity and proximity to a pseudo Basic environment with C-derived.
+Given its simplicity and similarity to a pseudo-Basic environment derived from C,
 
-the NEO-Shell can also be applied in an educational context as a tool 
-of study and learning.
+NEO-Shell can also be applied in an educational context as a tool 
+for study and learning.
 
 pro & con
 
@@ -80,3 +78,10 @@ https://sites.google.com/view/lukeprojects04/home-page
 if so you can write to me via Email to: lukeprojects04@gmail.com 
 
 this product is Made in Italy! 🇮🇹
+
+important:
+
+The Neo Shell and its programs may not be redistributed or sold under sublicenses or by third parties.
+
+The programs may be used publicly, but modifications to them are not permitted.
+
